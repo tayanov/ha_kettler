@@ -1,7 +1,7 @@
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/custom-components/hacs)
 
-# Redmond kettler G200S series integration
-allows you to connect Redmond Kettler G200S (other kettlers need tests) to your Home Assistant
+# Redmond kettler m216S integration
+allows you to connect Redmond Kettler m216S (other kettlers need tests) to your Home Assistant
 
 
 **What's new:**
